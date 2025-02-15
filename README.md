@@ -2,4 +2,4 @@
 
 **About me**
 
-I am a passionate Developer who enjoys building innovative projects and solving complex problems. Always exploring new technologies to enhance my projects.
+Passionate Developer who enjoys building innovative projects and solving complex problems. Always exploring new technologies to enhance my projects.
