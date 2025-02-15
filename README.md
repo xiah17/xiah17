@@ -1,4 +1,4 @@
-# **Hello! I'm Miahlyn Abellanosa**
+**Hello! I'm Miahlyn Abellanosa**
 
 **About me**
 
