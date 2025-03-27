@@ -1,4 +1,4 @@
-##  Hi, I'm Miahlyn Abellanosa 👋
+#  Hi, I'm Miahlyn Abellanosa 👋
 
 ## 🚀 About me
 <p align="left">
