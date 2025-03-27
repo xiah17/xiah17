@@ -1,7 +1,7 @@
 ##  Hi, I'm Miahlyn Abellanosa 👋
 
-<div align="left">
 ### 🚀 About me
+<div align="left">
 A Passionate Student Developer who enjoys building innovative projects and solving complex problems. Always exploring new technologies to create efficient and scalable solutions.
 </div>
 
