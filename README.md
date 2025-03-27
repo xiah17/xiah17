@@ -6,7 +6,6 @@ A Passionate Student Developer who enjoys building innovative projects and solvi
 </div>
 
 ### 💻 Technologies and Tools
-<div align="left">
 <p>
   <img src="https://skillicons.dev/icons?i=cs" title="C#" />
   <img src="https://skillicons.dev/icons?i=html" title="HTML" />
@@ -14,4 +13,3 @@ A Passionate Student Developer who enjoys building innovative projects and solvi
   <img src="https://skillicons.dev/icons?i=php" title="PHP" />
   <img src="https://skillicons.dev/icons?i=python" title="Python" /> 
 </p>
-</div>
