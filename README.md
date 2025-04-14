@@ -3,7 +3,7 @@
 
 ### 🚀 About me
 <p align="left">
-**Aspiring Software Enginner**
+**`Aspiring Software Enginner`**
 
 A Passionate Student Developer who enjoys building innovative projects and solving complex problems. Always exploring new technologies to create efficient and scalable solutions.
 </p>
