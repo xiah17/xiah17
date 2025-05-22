@@ -10,6 +10,6 @@ A Passionate Student Developer who enjoys building innovative projects and solvi
 ### 💻 Technologies
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,azure,ts,nextjs,py,git" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,azure,javascript,ts,nextjs,py,git" />
   </a>
 </p>
