@@ -4,7 +4,7 @@
 ### 🚀 About me
 **`Developer`** 
 
-A Passionate Student Developer who enjoys building innovative projects and solving complex problems. Always exploring new technologies to create efficient and scalable solutions.
+A Passionate Developer who enjoys building innovative projects and solving complex problems. Always exploring new technologies to create efficient and scalable solutions.
 
 
 ### 💻 Technologies
