@@ -10,7 +10,6 @@ A Passionate Developer who enjoys building innovative projects and solving compl
 
 
 ## 💻 Skills
-### Languages & Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,azure,javascript,ts,nextjs,py,git" />
@@ -18,5 +17,5 @@ A Passionate Developer who enjoys building innovative projects and solving compl
 </p>
 
 ## Let's Connect
-<p align="left"><a href="Jalen.1720@gmail.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/136922683/272305834-1a9f3795-0304-480f-8953-b92a0cfb1ca3.png" width="32" height="32" /></a> <a href="mailto:mahdizareiofficial@gmail.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/136922683/272307679-1e5d5f64-a063-437a-9f1e-fa2d7c8f8932.png" width="32" height="32" /></a>
+<p align="left"><a href="https://www.linkedin.com/in/miahlyn-abellanosa-2a2002233/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/136922683/272305834-1a9f3795-0304-480f-8953-b92a0cfb1ca3.png" width="32" height="32" /></a> <a href="mailto:mahdizareiofficial@gmail.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/136922683/272307679-1e5d5f64-a063-437a-9f1e-fa2d7c8f8932.png" width="32" height="32" /></a>
 <p/>
