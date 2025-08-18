@@ -10,8 +10,11 @@ A Passionate Developer who enjoys building innovative projects and solving compl
 
 
 ## 💻 Skills
+### Languages & Tools
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,azure,javascript,ts,nextjs,py,git" />
   </a>
 </p>
+
+### 🌐 Connect with Me
