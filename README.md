@@ -5,9 +5,9 @@
 </div>
 
 ## 🚀 About me
-<p align="center">
+
 A Passionate Developer who enjoys building innovative projects and solving complex problems. Exploring new technologies to create efficient and scalable solutions.
-</p>
+
 
 ## 💻 Skills
 <p align="center">
