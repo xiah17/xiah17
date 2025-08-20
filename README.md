@@ -32,7 +32,9 @@ A Passionate Developer Who Enjoys Building Creative Projects and Solving Complex
 </div>
 
 <div align="center">
+  <h3>
     "Code With Purpose. Build With Passion."
+  </h3>
 </div>
 
 <div align="center">
