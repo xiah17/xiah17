@@ -28,5 +28,5 @@ A Passionate Developer Who Enjoys Building Creative Projects and Solving Complex
 <p/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,23,28,30&height=150&section=footer" width="70%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,23,28,30&height=90&section=footer" width="100%"/>
 </div>
