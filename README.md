@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,23,28,30&height=70&section=header&descAlignY=60&animation=fadeIn" alt="Header Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,23,28,30&height=90&section=header&descAlignY=60&animation=fadeIn" alt="Header Banner" width="100%"/>
   </div>>
 
 <div align="center">
@@ -28,5 +28,5 @@ A Passionate Developer Who Enjoys Building Creative Projects and Solving Complex
 <p/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,23,28,30&height=70&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,23,28,30&height=150&section=footer" width="90%"/>
 </div>
