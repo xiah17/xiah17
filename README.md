@@ -19,7 +19,7 @@ A Passionate Developer Who Enjoys Building Creative Projects and Solving Complex
 ## 💻 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,azure,javascript,react,ts,nextjs,py,sklearn,git" />
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,azure,javascript,react,ts,nextjs,py,sklearn,postgre,docker,git" />
   </a>
 </p>
 
