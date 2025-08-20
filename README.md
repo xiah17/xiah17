@@ -1,6 +1,10 @@
 ##  Hi, I'm Miahlyn Abellanosa 👋
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,23,28,30&height=300&section=header&text=Hiwot%20Belay%20Mekonnen&fontSize=60&fontAlignY=35&desc=Building%20Digital%20Experiences%20That%20Matter&descSize=20&descAlignY=60&animation=fadeIn" alt="Header Banner" width="100%"/>
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE82EE&center=true&vCenter=true&width=435&lines=Developer;.NET+Developer;Full+Stack+Developer;React+Developer;Next+Developer;AI+Enthusiast" alt="Typing SVG" />
 </div>
 
