@@ -1,7 +1,7 @@
 ##  Hi, I'm Miahlyn Abellanosa 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,23,28,30&height=300&section=header&text=Hiwot%20Belay%20Mekonnen&fontSize=60&fontAlignY=35&desc=Building%20Digital%20Experiences%20That%20Matter&descSize=20&descAlignY=60&animation=fadeIn" alt="Header Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,23,28,30&height=300&section=header&text=Miahlyn%20Abellanosa&fontSize=60&fontAlignY=35&desc=Building%20Digital%20Experiences%20That%20Matter&descSize=20&descAlignY=60&animation=fadeIn" alt="Header Banner" width="100%"/>
 </div>
 
 <div align="center">
