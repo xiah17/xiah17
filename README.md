@@ -4,9 +4,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE82EE&center=true&vCenter=true&width=435&lines=Developer;.NET+Developer;Full+Stack+Developer;React+Developer;Next+Developer;AI+Enthusiast" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
+</div>
+
 ## 🚀 About me
 
-A Passionate Developer who enjoys building Creative Projects and Solving Complex Problems. Exploring new Technologies to create efficient and scalable solutions.
+A Passionate Developer Who Enjoys Building Creative Projects and Solving Complex Problems. Exploring New Technologies To Create Efficient and Scalable Solutions.
 
 ## 💻 Skills
 <p align="center">
