@@ -24,7 +24,7 @@ A Passionate Developer Who Enjoys Building Creative Projects and Solving Complex
 </p>
 
 ## 🌐 Let's Connect
-<p align="left"><a href="https://www.linkedin.com/in/miahlyn-abellanosa-2a2002233/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/136922683/272305834-1a9f3795-0304-480f-8953-b92a0cfb1ca3.png" width="32" height="32" /></a> <a href="Jalen.1720@gmail.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/136922683/272307679-1e5d5f64-a063-437a-9f1e-fa2d7c8f8932.png" width="32" height="32" <a href="https://discord.com/channels/@me" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/2a3ce46f963399611d8e2054bb0ce9a4b539296a/topics/discord/discord.png" width="32" height="32"/></a>
+<p align="left"><a href="https://www.linkedin.com/in/miahlyn-abellanosa-2a2002233/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/136922683/272305834-1a9f3795-0304-480f-8953-b92a0cfb1ca3.png" width="32" height="32" /></a> <a href="Jalen.1720@gmail.com" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/136922683/272307679-1e5d5f64-a063-437a-9f1e-fa2d7c8f8932.png" width="32" height="32" <a href="https://discord.com/channels/@me" target="_blank" rel="noreferrer"> <img src="img src="https://avatars.githubusercontent.com/u/1965106?s=280&amp;v=4" width="32" height="32"/></a>
 <p/>
 
 <div align="center">
