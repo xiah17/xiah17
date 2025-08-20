@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-### Hello!, I'm Miahlyn Abellanosa 👋
+Hello!, I'm Miahlyn Abellanosa 👋
 </p>
 
 <div align="center">
