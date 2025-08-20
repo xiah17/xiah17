@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
 </div>
 
-## Hello there! I'm Miahlyn Abellanosa 👋
+## <div align="center"> Hello there! I'm Miahlyn Abellanosa 👋 </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE82EE&center=true&vCenter=true&width=435&lines=Developer;.NET+Developer;Full+Stack+Developer;React+Developer;Next+Developer;AI+Enthusiast" alt="Typing SVG" />
