@@ -1,6 +1,7 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=84C2C0&height=70&section=header"/>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,23,28,30&height=300&section=header&text=Miahlyn%20Abellanosa&fontSize=60&fontAlignY=35&descSize=20&descAlignY=60&animation=fadeIn" alt="Header Banner" width="100%"/>
-</div>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Hello+!;My+name+is+Miahly+Abellanosa" alt="Typing SVG" /></a>
+</div> 
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE82EE&center=true&vCenter=true&width=435&lines=Developer;.NET+Developer;Full+Stack+Developer;React+Developer;Next+Developer;AI+Enthusiast" alt="Typing SVG" />
