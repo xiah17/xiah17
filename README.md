@@ -33,7 +33,7 @@ A Passionate Developer Who Enjoys Building Creative Projects and Solving Complex
 
 <div align="center">
   <h3>
-    "Code with purpose. Build with passion."
+    "Code With Purpose. Build With Passion."
  </h3>
 </div>
 
