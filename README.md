@@ -1,4 +1,4 @@
-<div align="center">
+<img width="280" height="280" alt="image" src="https://github.com/user-attachments/assets/cd2ec405-1e76-4501-bee0-513e011622a6" /><div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,23,28,30&height=90&section=header&descAlignY=60&animation=fadeIn" alt="Header Banner" width="100%"/>
   </div>
 
