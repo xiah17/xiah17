@@ -1,6 +1,6 @@
-<img width="280" height="280" alt="image" src="https://github.com/user-attachments/assets/cd2ec405-1e76-4501-bee0-513e011622a6" /><div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,23,28,30&height=90&section=header&descAlignY=60&animation=fadeIn" alt="Header Banner" width="100%"/>
-  </div>
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
