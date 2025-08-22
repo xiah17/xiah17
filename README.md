@@ -9,7 +9,7 @@
 ## Hello there! I'm Miahlyn Abellanosa 👋 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=7B3FE4&center=true&vCenter=true&width=435&lines=Developer;.NET+Developer;Full+Stack+Developer;AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=7B3FE4&center=true&vCenter=true&width=435&lines=Developer;.NET+Developer;Full+Stack+Developer;AI+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## 🌱 About me
