@@ -12,11 +12,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE82EE&center=true&vCenter=true&width=600&lines=Developer;.NET+Developer;Full+Stack+Developer;AI+Enthusiast" alt="Typing SVG" />
 </div>
 
-## 🚀 About me
+## 🌱 About me
 
 A Passionate Developer Who Enjoys Building Creative Projects and Solving Complex Problems. Exploring New Technologies To Create Efficient and Scalable Solutions.
 
-## 💻 Skills
+## 👩‍💻 Skills
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,azure,javascript,react,py,sklearn,postgres,git" />
