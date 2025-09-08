@@ -16,7 +16,7 @@
 
 A Passionate Developer Who Enjoys Building Creative Projects and Solving Complex Problems. Exploring New Technologies To Create Efficient and Scalable Solutions.
 
-## 👩‍💻 Skills
+## 👩‍💻 Technologies
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=dotnet,cs,angular,ts,azure,javascript,react,py,postgres,git" />
