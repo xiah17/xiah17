@@ -9,7 +9,7 @@
 ## Hello there! I'm Miahlyn Abellanosa 👋 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7B3FE4&center=true&vCenter=true&width=435&lines=Developer;AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7B3FE4&center=true&vCenter=true&width=435&lines=Developer;Clean+Code;AI+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## 🌱 About me
@@ -33,7 +33,9 @@ A Passionate Developer Who Enjoys Building Creative Projects and Solving Complex
 
 <div align="center">
   <h3>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20" alt="Code Icon"/> 
     "Code With Purpose. Build With Passion."
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20" alt="Code Icon"/> 
   </h3>
 </div>
 
