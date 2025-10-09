@@ -6,7 +6,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
 </div>
 
-## Hello there! I'm Miahlyn Abellanosa <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="25" height="25">
+## Hello there! I'm Miahlyn Abellanosa <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="35" height="35">
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7B3FE4&center=true&vCenter=true&width=435&lines=Developer;Clean+Code;AI+Enthusiast" alt="Typing SVG" />
