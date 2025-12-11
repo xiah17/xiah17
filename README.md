@@ -14,7 +14,7 @@
 
 ## 🌱 About me
 
-- A Passionate Developer Who Enjoys Building Creative Projects and Solving Complex Problems. Exploring New Technologies To Create Efficient and Scalable Solutions.
+- A Passionate Developer Who Enjoys Building Creative Projects and Solving Problems. Exploring New Technologies To Create Efficient and Scalable Solutions.
 
 ## 👩‍💻 Technologies
 <p align="center">
