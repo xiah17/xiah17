@@ -14,7 +14,7 @@
 
 ## 🌱 About me
 
-- I am a developer passionate about building user-friendly projects, solving problems, and exploring new technologies to create efficient and scalable solutions.
+- I'm a developer passionate about building user-friendly projects, solving problems, and exploring new technologies to create efficient and scalable solutions.
 
 ## 👩‍💻 Technologies
 <p align="center">
